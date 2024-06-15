@@ -17,7 +17,7 @@ require (
 	github.com/uptrace/bun/dialect/mysqldialect v1.2.1
 	github.com/uptrace/bun/extra/bundebug v1.2.1
 	golang.org/x/net v0.26.0
-	google.golang.org/protobuf v1.34.1
+	google.golang.org/protobuf v1.34.2
 )
 
 require (
